@@ -1,0 +1,21 @@
+{
+  "create_new_audience": "Create your audience",
+  "sub_title": "Name and describe the audience you're creating.",
+  "name": "Audience Name",
+  "nameInput": "Enter Audience Name",
+  "nameTooltip": "Lorem ipsum dolor sit amet, consectetur",
+  "description": "Audience Description",
+  "descriptionInput": "Enter Audience Description",
+  "descriptionTooltip": "Lorem ipsum dolor sit amet, consectetur",
+  "nameFieldReq": "Please enter Audience Name.",
+  "descriptionFieldReq": "Please enter Audience Description.",
+  "send": "Send",
+  "next": "Next",
+  "selectYourTarget": "Select your targeting for",
+  "selectYourTargetSubTitle": "Unlock additional targeting features.",
+  "viewPricing": "View Pricing",
+  "location":"Location:",
+  "radius":"Radius:",
+  "age":"Age:",
+  "gender":"Gender:"
+}

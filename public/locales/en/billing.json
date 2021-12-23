@@ -1,0 +1,25 @@
+{
+    "currentPlan" : "Current plan",
+    "month" : "Month",
+    "changePlan": "Change plan",
+    "cancelSubscription" : "Cancel subscription",
+    "nextBilling" : "Next billing",
+    "july" : "July",
+    "basicPlan" : "Basic Plan",
+    "payNow" :"Pay now",
+    "previousBilling" : "Previous Billing",
+    "paymentMethod" :  "Payment Method",
+    "date" : "Date",
+    "plan" : "Plan",
+    "price": "Price",
+    "loadMore" : "Load more",
+    "remove": "Remove",
+    "title": "Your profile has been saved",
+    "text": "In ultricies fermentum aliquet. Pellentesque.",
+    "cancelSubscriptionConfirmation" : "Are you sure you want to cancel?",
+    "cancelSubscriptionConfirmationText" : "In ultricies fermentum aliquet. Pellentesque.",
+    "cancel" : "Cancel",
+    "confirm": "Yes Please"
+    
+
+}

@@ -1,0 +1,19 @@
+{
+    "header1": "Great, ",
+    "header2": "! Now let’s set up your customer facing company profile.",
+    "threeOfThree": "Step 3 of 3",
+    "bDisplayName": "Brand display name",
+    "compBio":"Company bio",
+    "bCategory": "Business category",
+    "companyInfo": "Company info",
+    "contactInfo": "Contact info",
+    "companyProfile": "Company profile",
+    "back": "Back",
+    "uploadProfileImage" : "Upload new profile image",
+    "skipNow": "Skip this",
+    "CompanyBioErrorMessage" : "Please enter Company bio",
+    "CategoryErrorMessage" : "Please enter Business Category",
+    "BrandNameErrorMessage":"Please enter your Brand display name",
+    "done" : "Done"
+    
+}

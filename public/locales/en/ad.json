@@ -1,0 +1,22 @@
+{
+  "pageTitle": "Your current Ads",
+  "pageSubTitle": "View insights and control your ads.",
+  "live": "Live",
+  "draft": "Drafts",
+  "finished": "Finished",
+  "createNew": "Create New Ad",
+  "search": "Search",
+  "selectDates": "Select dates",
+  "sectionTitle": "Live Ads",
+  "name": "Ad Name",
+  "description": "Ad description",
+  "impression": "Impressions ",
+  "amount": "Amount ",
+  "budget": "Budget Spent ",
+  "pause": "Pause",
+  "resume": "Resume",
+  "stop": "Stop",
+  "edit": "Edit Ad",
+  "delete": "Delete",
+  "viewInsight": "View insights"
+}

@@ -1,0 +1,15 @@
+{
+    "login": "Log in",
+    "logintext": "Log in to your account",
+    "welcomeBack":
+      "Welcome back. Enter your account details to access your account.",
+    "forgotPsw": "Forgot Password",
+    "Remember": "Remember me",
+    "new": "New to Orbbit?",
+    "singup": "Sign Up",
+    "email": "Email address",
+    "password": "Password",
+    "emailNotProvided": "Please enter your registered Email Address",
+    "passwordNotProvided": "Please enter your Password",
+    "error": "Invalid Email Id or Password"
+}

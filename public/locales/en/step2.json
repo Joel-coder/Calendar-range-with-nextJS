@@ -1,0 +1,14 @@
+{
+    "contactYou":"How do we contact you?",
+    "companyAddress": "Company address",
+    "enterPhoneNumber": "Enter phone number",
+    "taxNumber": "Tax number (Optional)",
+    "skip": "Skip for now",
+    "skipNow": "Skip this",
+    "twoOfTree": "Step 2 of 3",
+    "next": "Next",
+    "companyAddresErrorMessage": "Please enter your Company address",
+    "numberErrorMessage": "Please enter your number",
+    "numberPlaceHolder" : "Enter your number",
+    "back" :"Back"
+}

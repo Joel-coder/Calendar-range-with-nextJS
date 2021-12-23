@@ -1,0 +1,16 @@
+
+   { "companyDetails": "! Let’s start with your company details.",
+    "heading_1" : "Hey ",
+    "oneoftree": "Step 1 of 3",
+    "companyName": "Company name",
+    "selectCountry": "Select a country",
+   "skip": "Skip for now",
+    "companyInfo": "Company info",
+    "contactInfo": "Contact info",
+    "companyProfile": "Company profile",
+    "skipNow": "Skip this",
+    "CompanyNameErrorMessage": "Please enter your Company name",
+    "CountryErrorMessage": "Please select a country",
+    "CurrencyErrorMessage": "Please select a currency",
+    "next": "Next"
+}

@@ -1,0 +1,22 @@
+{
+  "offerTitle": "Create your offer",
+  "offerSubTitle": "In ultricies fermentum aliquet. Pellentesque.",
+  "offerName": "Offer Name",
+  "description": "Description",
+  "offerDescription": "Offer Description",
+  "setCredValue": "Set Cred value ",
+  "cred": "Cred ",
+  "name": "Name",
+  "next": "Next",
+  "back": "Back",
+  "nameTooltip": "Offer name tooltip",
+  "oferNameError": "Please enter the Offer Name",
+  "oferDescriptionError": "Please enter the Offer Description",
+  "uploadImage": "Upload Image ",
+  "uploadImageSub": "Lorem ipsum dolor sit amet, consecrated",
+  "setCredTooltip": "Lorem ipsum dolor sit amet, consecrated",
+  "uploadImageTooltip": "Lorem ipsum dolor sit amet, consecrated",
+  "dragAndDrop": "or Drag and drop here",
+  "offerCreditsError": "Please select a Set Cred Value",
+  "offerImageError": "Please Upload Image"
+}

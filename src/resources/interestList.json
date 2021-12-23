@@ -1,0 +1,119 @@
+[
+  {
+    "id": 0,
+    "name": "Clear"
+  },
+  {
+    "id": 1,
+    "name": "Travel"
+  },
+  {
+    "id": 2,
+    "name": "Food and beverage"
+  },
+  {
+    "id": 3,
+    "name": "Business"
+  },
+  {
+    "id": 4,
+    "name": "Startups"
+  },
+  {
+    "id": 5,
+    "name": "Games"
+  },
+  {
+    "id": 6,
+    "name": "Arts & music"
+  },
+  {
+    "id": 7,
+    "name": "Interior design"
+  },
+  {
+    "id": 8,
+    "name": "Pets & animals"
+  },
+  {
+    "id": 9,
+    "name": "Politics"
+  },
+  {
+    "id": 10,
+    "name": "Vehicles"
+  },
+  {
+    "id": 11,
+    "name": "Movies & TV"
+  },
+  {
+    "id": 12,
+    "name": "Family"
+  },
+  {
+    "id": 13,
+    "name": "Weddings"
+  },
+  {
+    "id": 14,
+    "name": "Fitness"
+  },
+  {
+    "id": 15,
+    "name": "Crypto"
+  },
+  {
+    "id": 16,
+    "name": "Agriculture"
+  },
+  {
+    "id": 17,
+    "name": "Aviation"
+  },
+  {
+    "id": 18,
+    "name": "Banking"
+  },
+  {
+    "id": 19,
+    "name": "Design"
+  },
+  {
+    "id": 20,
+    "name": "Economics"
+  },
+  {
+    "id": 21,
+    "name": "Marketing"
+  },
+  {
+    "id": 22,
+    "name": "Health care"
+  },
+  {
+    "id": 23,
+    "name": "Real estate"
+  },
+  {
+    "id": 24,
+    "name": "Retail & shopping"
+  },
+  {
+    "id": 25,
+    "name": "Fashion"
+  },
+  {
+    "id": 26,
+    "name": "Science"
+  },
+  {
+    "id": 27,
+    "name": "Sports"
+  },
+  {
+    "id": 28,
+    "name": "Technology"
+  }
+]
+

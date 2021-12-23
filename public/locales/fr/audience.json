@@ -1,0 +1,13 @@
+{
+  "create_new_audience": "Create your audience",
+  "sub_title": "In ultricies fermentum aliquet. Pellentesque.",
+  "audienceName": "Audience Name",
+  "audienceDescription": "Audience Description",
+  "name": "Name",
+  "nameTooltip": "Lorem ipsum dolor sit amet, consectetur",
+  "description": "Description",
+  "descriptionTooltip": "Lorem ipsum dolor sit amet, consectetur",
+  "nameFieldReq": "Name is required!",
+  "descriptionFieldReq": "Description is required",
+  "send": "Send"
+}

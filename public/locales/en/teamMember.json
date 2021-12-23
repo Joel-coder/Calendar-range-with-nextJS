@@ -1,0 +1,20 @@
+{
+  "teamMember" : "Team members",
+  "saveProfile" : "Save Profile",
+  "addTeamMember": "Add team member",
+  "increaseSubscription": "Are you sure you want to increase your subscription?",
+  "unlockMember":"Unlock more members.",
+  "viewPricing" : "View pricing",
+  "cancel" : "Cancel",
+  "confirm":"Save Profile",
+  "memberSetting" : "Team member Settings",
+  "sendInvite" : "Send Invite",
+  "name":"Name",
+  "position" : "Position",
+  "email" : "Email",
+  "type":"Type",
+  "joined" : "Joined",
+  "userType" : "User Type",
+  "edit": "Edit",
+  "remove" : "Remove"
+}

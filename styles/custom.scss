@@ -1,0 +1,59 @@
+@import "../node_modules/bootstrap/scss/bootstrap";
+.week,
+.calendar .day {
+  position: relative;
+  width: calc(100% / 7);
+  font-family: Poppins;
+  display: inline-block;
+  background-color: white;
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  z-index: 1;
+  text-align: center;
+  font-size: 12px;
+}
+.calendar-header {
+  width: 100%;
+}
+.week {
+  color: #3399ff;
+}
+.arrows {
+  font-family: Poppins;
+  color: #3399ff;
+}
+
+.calendar-container {
+  max-width: 200px;
+  margin: auto;
+  border: 1px solid #adb5bd;
+  border-radius: 8px;
+  padding-bottom: 10px;
+}
+.selected {
+  background-color: red;
+}
+.border {
+  background-color: red;
+  border-radius: 80%;
+}
+.today,
+.border-right,
+.border-left,
+.between {
+  background-color: #3399ff;
+  color: white;
+}
+
+.border-left {
+  border-radius: 16px 0 0 16px;
+}
+
+.border-right {
+  border-radius: 0 16px 16px 0;
+}
+.header-date {
+  font-size: 12px;
+  text-align: center;
+}
