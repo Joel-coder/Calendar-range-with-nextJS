@@ -151,16 +151,14 @@ export default function LandingPage({ style = {}, ...props }) {
           <div className="calendar">
             {calendar.map((week) => (
               <div>
-                {week.map((day) => (
+                {week.map((day, index) => (
                   <div
                     className="day"
                     onClick={() => {
                       setValue(day);
-                      console.log("setvalue", day);
-                      console.log(value);
                       setInterval(day);
-                      console.log(a);
                     }}
+                    key={index}
                   >
                     <div className={dayStyle(day, value)}>
                       {day.format("D")}
