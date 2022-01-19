@@ -29,7 +29,7 @@ function MyApp({ Component, pageProps }) {
         </Head>
         <ThemeProvider theme={theme}>
           <CssBaseline />
-          <Component {...pageProps} />
+          <Component {...pageProps} style={{ backgroundColor: "lightblue" }} />
         </ThemeProvider>
       </React.Fragment>
     </GlobalStateProvider>

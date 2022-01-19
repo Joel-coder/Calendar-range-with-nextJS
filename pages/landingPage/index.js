@@ -4,7 +4,7 @@ import { serverSideTranslations } from "next-i18next/serverSideTranslations"; //
 import { useRouter } from "next/router"; // i18n
 import moment from "moment";
 
-export default function LandingPage() {
+export default function LandingPage({ style = {}, ...props }) {
   const router = useRouter();
   const { locale } = router;
   const { t } = useTranslation("landingPage");
@@ -18,18 +18,15 @@ export default function LandingPage() {
   const setInterval = (day) => {
     a[0] = value;
     a[1] = day;
-    console.log(a);
+
     setValueArr(a);
   };
   useEffect(() => {
     const temp = [];
     const day = startDay.clone().subtract(1, "day");
+
     while (day.isBefore(endDay, "day")) {
-      temp.push(
-        Array(7)
-          .fill(0)
-          .map(() => day.add(1, "day").clone())
-      );
+      temp.push([...Array(7)].map(() => day.add(1, "day").clone()));
     }
     setCalendar(temp);
   }, [value]);
@@ -114,7 +111,7 @@ export default function LandingPage() {
   const nextMonth = () => {
     return value.clone().add(1, "month");
   };
-
+  console.log({ ...style });
   return (
     <div className="">
       <div className="calendar-container">
@@ -159,9 +156,10 @@ export default function LandingPage() {
                     className="day"
                     onClick={() => {
                       setValue(day);
-
+                      console.log("setvalue", day);
+                      console.log(value);
                       setInterval(day);
-                      //    console.log(a);
+                      console.log(a);
                     }}
                   >
                     <div className={dayStyle(day, value)}>
